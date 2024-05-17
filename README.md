@@ -1,0 +1,2 @@
+# LFI-Enum-Technique
+LFI ENUMERATION SCENARIOS
